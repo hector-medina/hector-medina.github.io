@@ -32,7 +32,7 @@ html, body {
 
 /* SMOOTH LOAD */ 
 
-p,h1, #navbar-main {
+p,h1, #navbar-main, #principal {
   animation: fadein 2s;
   -moz-animation: fadein 2s; /* Firefox */
   -webkit-animation: fadein 2s; /* Safari and Chrome */
