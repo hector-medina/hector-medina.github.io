@@ -72,3 +72,8 @@ p,h1, #navbar-main, #principal {
 }
 
 .a-texto {color: #009688 !important}
+
+.card-image{
+  height: 200px; /* Your height here */
+  overflow: hidden;
+}
